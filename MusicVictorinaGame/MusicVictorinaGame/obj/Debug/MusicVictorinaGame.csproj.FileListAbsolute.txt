@@ -1,0 +1,16 @@
+C:\Users\ACHM\source\repos\MusicVictorinaGame\MusicVictorinaGame\obj\Debug\MusicVictorinaGame.csprojAssemblyReference.cache
+C:\Users\ACHM\source\repos\MusicVictorinaGame\MusicVictorinaGame\obj\Debug\MusicVictorinaGame.fOption.resources
+C:\Users\ACHM\source\repos\MusicVictorinaGame\MusicVictorinaGame\obj\Debug\MusicVictorinaGame.fMain.resources
+C:\Users\ACHM\source\repos\MusicVictorinaGame\MusicVictorinaGame\obj\Debug\MusicVictorinaGame.Properties.Resources.resources
+C:\Users\ACHM\source\repos\MusicVictorinaGame\MusicVictorinaGame\obj\Debug\MusicVictorinaGame.csproj.GenerateResource.cache
+C:\Users\ACHM\source\repos\MusicVictorinaGame\MusicVictorinaGame\bin\Debug\MusicVictorinaGame.exe.config
+C:\Users\ACHM\source\repos\MusicVictorinaGame\MusicVictorinaGame\bin\Debug\MusicVictorinaGame.exe
+C:\Users\ACHM\source\repos\MusicVictorinaGame\MusicVictorinaGame\bin\Debug\MusicVictorinaGame.pdb
+C:\Users\ACHM\source\repos\MusicVictorinaGame\MusicVictorinaGame\obj\Debug\MusicVictorinaGame.exe
+C:\Users\ACHM\source\repos\MusicVictorinaGame\MusicVictorinaGame\obj\Debug\MusicVictorinaGame.pdb
+C:\Users\ACHM\source\repos\MusicVictorinaGame\MusicVictorinaGame\bin\Debug\Interop.WMPLib.dll
+C:\Users\ACHM\source\repos\MusicVictorinaGame\MusicVictorinaGame\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ACHM\source\repos\MusicVictorinaGame\MusicVictorinaGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\ACHM\source\repos\MusicVictorinaGame\MusicVictorinaGame\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ACHM\source\repos\MusicVictorinaGame\MusicVictorinaGame\obj\Debug\MusicVictorinaGame.csproj.ResolveComReference.cache
+C:\Users\ACHM\source\repos\MusicVictorinaGame\MusicVictorinaGame\obj\Debug\MusicVictorinaGame.fGame.resources
